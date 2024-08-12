@@ -1,6 +1,6 @@
 # Clon de Google
 
-El presente proyecto es una página clon de google.com.mx desarrollado para poner en práctica las habilidades obtenidadas dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
+El presente proyecto es una página clon de google.com.mx desarrollado para poner en práctica las habilidades obtenidas dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
 
 Fue desarrollado con HTML y CSS.
 
